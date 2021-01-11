@@ -6,7 +6,7 @@
   The spherical law of cosines formula is from https://www.movable-type.co.uk/scripts/latlong.html.
 
   Example input URL: 
-  https://8rwlo.sse.codesandbox.io/?latA=30&lonA=-90&latB=30.45&lonB=-91.187
+  https://bh0j4.sse.codesandbox.io/?latA=30&lonA=-90&latB=30.45&lonB=-91.187
 
   Location names: New Orleans and Baton Rouge
 
