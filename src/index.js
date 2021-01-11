@@ -7,9 +7,7 @@
 
   Example input URL: 
   https://bh0j4.sse.codesandbox.io/?latA=30&lonA=-90&latB=30.45&lonB=-91.187
-
   Location names: New Orleans and Baton Rouge
-
   Output: distance: 124.53850456983854
 */
 var http = require("http");
