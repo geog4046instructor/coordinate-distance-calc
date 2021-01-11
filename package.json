@@ -1,0 +1,14 @@
+{
+  "name": "coordinate-distance-calc",
+  "version": "1.0.0",
+  "description": "Returns the distance in kilometers between two points on Earth. Specify the input parameters as latA and lonA for Point A, and latB and lonB for Point B. ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
